@@ -5,6 +5,4 @@ echo $string;
 
 $string2 = "second string";
 
-
-
-
+$arr = "array";
